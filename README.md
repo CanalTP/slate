@@ -1,8 +1,15 @@
+Navitia Documentation
+=====================
+
+Slate fork for navitia's API documentation
+
+
 To deploy in CanalTP's pages
-============================
+----------------------------
 
 To build the doc and publish it to github pages: 
-LC_ALL=en_US rake publish
+
+    LC_ALL=en_US rake publish
 
 Slate
 ========
